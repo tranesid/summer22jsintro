@@ -39,3 +39,4 @@ GITHUB - is the repo (your code, your project that git is tracking) on the web g
 // make changes and save in vs code
 // 'commit' - saving changes to git 2 steps
 // 'git add .' or add files in vscode
+//  add message in vs click check
